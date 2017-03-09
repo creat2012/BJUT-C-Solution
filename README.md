@@ -1,9 +1,5 @@
 
-
-### THIS PROJECT IS FOR THE C PROGRAMMING TUTORIAL BY EXAMPLES (2ND EDITION)
-
-### YEAH, IF YOU ARE READY FOR THE EXAM OF BJUT. YOU CAN FORK IT.
-
+## 《C语言程序设计教案教材（第二版）》课后题代码
 
 ### 这个代码库，主要就是用来提供北工大计算机技术专硕的复试之用。
 ### 对应于其给定教材《C语言程序设计教案教材（第二版）》的课后题目。
